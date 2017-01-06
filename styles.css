@@ -1,0 +1,66 @@
+/* add your CSS here */
+#card{
+	width: 320px;
+	background-color:#FFEE22;
+	border-style:outset;
+	border-radius:10px;
+	font-family:"Times New Roman", Times, Serif;
+}
+.name{
+	width: 300px;
+	padding: 3px;
+	text-align:center;
+	border:#FF0000 5px;
+	border-style:inset;
+	border-radius:8px;
+	background-color:#EEBB77;
+	margin:2px;
+	font-size: 32px;
+}
+
+.pic{
+	width: 300px;
+	border:#FFBB00 5px;
+	border-style:ridge;
+	border-radius:8px;
+	padding: 3px;
+	margin:2px;
+}
+
+.detail {
+    width: 300px;
+	padding: 3px;
+	border:#CC8604 5px;
+	border-style:groove dashed ;
+	border-radius:8px;
+	margin:2px;
+	text-align:justify;
+	background-color:#FABB44;
+}
+
+.interesting_fact {
+	font-style: Italic;
+	border-style:ridge;
+	border-radius:6px;
+	font-size: 18px;
+}
+
+.list {
+	list-style:none;
+	font-size: 18px;
+	margin-left: 0; 
+	padding-left: 0;
+}
+
+.label{
+	font-weight:Bold;
+	
+}
+
+.description {
+	border:balck 1px;
+	border-radius:6px;
+	border-top-style:dotted; 
+	border-bottom-style:solid;
+	font-size: 16px;
+}
