@@ -1,5 +1,5 @@
 /* add your CSS here */
-#card{
+.card{
 	width: 320px;
 	background-color:#FFEE22;
 	border-style:outset;
@@ -54,7 +54,6 @@
 
 .label{
 	font-weight:Bold;
-	
 }
 
 .description {
